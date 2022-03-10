@@ -1,0 +1,9 @@
+[submodule "NLU2021-Assignment1"]
+	path = NLU2021-Assignment1
+	url = https://github.com/adefgreen98/NLU2021-Assignment1
+[submodule "NLU2021-Assignment2"]
+	path = NLU2021-Assignment2
+	url = https://github.com/adefgreen98/NLU2021-Assignment2
+[submodule "NLU2021-Project"]
+	path = NLU2021-Project
+	url = https://github.com/adefgreen98/NLU2021-Project
